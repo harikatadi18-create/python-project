@@ -1,1 +1,2 @@
 This repository contains begginer to intermediate level python projects created for practice created for practice and skill development.Each project focuses on improving core programming concepts like functions,loops,conditionals,and basic problem-solving.
+To-Do List Application (CRUD operations) 
